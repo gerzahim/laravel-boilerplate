@@ -2,6 +2,7 @@
     "name": "oliversarfas/laravel-boilerplate",
     "type": "project",
     "description": "Oliver Sarfas - Laravel Project Boilerplate",
+    "version": "0.1.0",
     "keywords": [
         "framework",
         "laravel",
